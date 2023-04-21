@@ -75,7 +75,7 @@ josephs_colorblind =  c("#0FFF50", "#4169e1","#306030", "#a9ba9d", "#d0f0c0", "#
 josephs_palette <- function(name, n, type = c("discrete", "continuous")) {
   type <- match.arg(type)
 
-  pal <- wes_palettes[[name]]
+  pal <- josephs_colors[[name]]
   if (is.null(pal))
     stop("Palette not found.")
 
