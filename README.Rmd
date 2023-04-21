@@ -36,16 +36,16 @@ install.packages("wesanderson")
 __Or the development version__
 
 ```r
-devtools::install_github("karthik/wesanderson")
+devtools::install_github("nscatlin/JosephsLabColors") # change parent dir to josephs once transferred 
 ```
 
 ## Usage
 
 ```{r, palettes_dummy}
-library("wesanderson")
+library("JosephsLabColors")
 
 # See all palettes
-names(wes_palettes)
+names(josephs_colors)
 ```
 
 ## Palettes
