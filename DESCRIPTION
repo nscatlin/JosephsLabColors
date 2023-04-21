@@ -1,5 +1,5 @@
-Package: wesanderson
-Title: A Wes Anderson Palette Generator
+Package: josephs_lab_colors
+Title: Josephs Lab Color Palette
 Description: Palettes generated mostly from 'Wes Anderson' movies.
 Date: 2018-03-29
 Version: 0.3.6.9000
