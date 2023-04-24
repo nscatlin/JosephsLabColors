@@ -2,7 +2,7 @@
 
 S3method(print,palette)
 export(josephs_palette)
-export(josephs_colors)
+export(josephs_palettes)
 importFrom(grDevices,rgb)
 importFrom(graphics,image)
 importFrom(graphics,par)
