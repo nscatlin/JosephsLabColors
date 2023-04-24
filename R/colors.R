@@ -28,7 +28,7 @@
 
 
 
-josephs_colors <- list(
+josephs_palettes <- list(
 josephs_true = c("#ffdb58", "#4169e1","#306030", "#0FFF50", "#738678", "#507d2a", "#a9ba9d", "#d0f0c0", "#5d8aa8", "#faf0e6", "black", "white"),
 josephs_colorblind =  c("#0FFF50", "#4169e1","#306030", "#a9ba9d", "#d0f0c0", "#5d8aa8", "black", "white")
 
