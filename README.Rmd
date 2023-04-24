@@ -28,13 +28,13 @@ The Josephs Lab has assembled a color palette to use in figures and slides. Plea
 
 ```r
 library(devtools)
-install_github("https://github.com/nscatlin/josephs_color_palette.git")
+install_github("https://github.com/nscatlin/JosephsLabColors")
 ```
 
 __Or the development version__
 
 ```r
-devtools::install_github("nscatlin/JosephsLabColors")<!-- # change parent dir to josephs once transferred >
+devtools::install_github("nscatlin/JosephsLabColors")
 ```
 
 ## Usage

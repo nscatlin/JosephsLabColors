@@ -10,13 +10,13 @@ for your own projects!
 
 ``` r
 library(devtools)
-install_github("https://github.com/nscatlin/josephs_color_palette.git")
+install_github("https://github.com/nscatlin/JosephsLabColors")
 ```
 
 **Or the development version**
 
 ``` r
-devtools::install_github("nscatlin/JosephsLabColors")<!-- # change parent dir to josephs once transferred >
+devtools::install_github("nscatlin/JosephsLabColors")
 ```
 
 ## Usage
