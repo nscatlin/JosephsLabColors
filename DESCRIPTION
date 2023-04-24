@@ -5,7 +5,7 @@ Date: 2023-04-21
 Version: 0.1.1
 Authors@R: c(person("Maya", "Wilson Brown", role = c("aut", "cre"),
     email = "wils1582@msu.edu"),
-    person("Nathan", "Catlin", role = c("aut"),
+    person("Nathan", "Catlin", role = "aut",
     email = "catlinna@msu.edu"))
 Depends:
     R (>= 3.0)
