@@ -3,9 +3,9 @@ Title: Josephs Lab Color Palette
 Description: Palettes generated colors that represent the research and community in the Josephs lab.
 Date: 2023-04-21
 Version: 0.1.1
-Authors@R: c(person("Maya", "Wilson Brown", role = c("aut", "cre"),
+Authors@R: c(person("Maya", "Wilson Brown", role = c("aut"),
     email = "wils1582@msu.edu"),
-    person("Nathan", "Catlin", role = c("aut", "cre"),
+    person("Nathan", "Catlin", role = c("aut"),
     email = "catlinna@msu.edu"))
 Depends:
     R (>= 3.0)
