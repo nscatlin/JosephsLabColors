@@ -2,11 +2,6 @@
 
 ## Jospehs Lab Palettes
 
-``` r
-# [![Build Status](https://travis-ci.org/karthik/wesanderson.png)](https://travis-ci.org/karthik/wesanderson) 
-# ![CRAN Downloads](http://cranlogs.r-pkg.org/badges/wesanderson) 
-```
-
 ![josephs_lab_logo](images/Josephs_white.png)
 
 \<!– #\> I saved you from boring plots. What did you ever do? - Max

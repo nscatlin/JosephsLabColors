@@ -16,7 +16,7 @@ knitr::opts_chunk$set(
 ```
 
 ## Jospehs Lab Palettes
-```{r}
+```{r, echo=FALSE}
 # [![Build Status](https://travis-ci.org/karthik/wesanderson.png)](https://travis-ci.org/karthik/wesanderson) 
 # ![CRAN Downloads](http://cranlogs.r-pkg.org/badges/wesanderson) 
 ```
