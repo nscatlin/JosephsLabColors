@@ -25,7 +25,7 @@ devtools::install_github("nscatlin/JosephsLabColors")<!-- # change parent dir to
 library("JosephsLabColors")
 
 # See all palettes
-names(josephs_colors)
+names(josephs_palettes)
 #> [1] "josephs_true"       "josephs_colorblind"
 ```
 
