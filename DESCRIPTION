@@ -3,7 +3,7 @@ Title: Josephs Lab Color Palette
 Description: Palettes generated colors that represent the research and community in the Josephs lab.
 Date: 2023-04-21
 Version: 0.1.1
-Authors@R: c(person("May", "Wilson Brown", role = c("aut", "cre"),
+Authors@R: c(person("Maya", "Wilson Brown", role = c("aut", "cre"),
     email = "wils1582@msu.edu"),
     person("Nathan", "Catlin", role = c("aut", "cre"),
     email = "catlinna@msu.edu"))
@@ -13,6 +13,6 @@ License: MIT + file LICENSE
 LazyData: true
 Suggests:
     ggplot2
-URL: https://github.com/karthik/wesanderson # this need to be changed to josephs lab github page when it gets transferred over
-BugReports: https://github.com/karthik/wesanderson/issues # this need to be changed to josephs lab github page when it gets transferred over
+URL: https://github.com/nscatlin/JosephsLabColors # this need to be changed to josephs lab github page when it gets transferred over
+BugReports: https://github.com/nscatlin/JosephsLabColors/issues # this need to be changed to josephs lab github page when it gets transferred over
 #RoxygenNote: 6.0.1
