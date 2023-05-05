@@ -2,7 +2,7 @@
 
 ## Jospehs Lab Palettes
 
-![josephs_lab_logo](images/Josephs_white.png) The Josephs Lab has
+![josephs_lab_logo](images/Coloured_Logo.png) The Josephs Lab has
 assembled a color palette to use in figures and slides. Please use it
 for your own projects!
 

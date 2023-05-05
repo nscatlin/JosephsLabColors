@@ -21,7 +21,7 @@ knitr::opts_chunk$set(
 # ![CRAN Downloads](http://cranlogs.r-pkg.org/badges/wesanderson) 
 ```
 
-![josephs_lab_logo](images/Josephs_white.png)
+![josephs_lab_logo](images/Coloured_Logo.png)
 The Josephs Lab has assembled a color palette to use in figures and slides. Please use it for your own projects!
 
 ## Installation
